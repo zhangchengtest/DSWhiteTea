@@ -104,9 +104,7 @@ h4 {
 }
 
 h5 {
-	background:
-		url("http://t.res.4008823823.com.cn/kfcios/Html/res/images/menu_txt_2.png")
-		no-repeat;
+	background: #00ffcc;
 	width: 192px;
 	height: 29px;
 	position: relative;
@@ -149,9 +147,7 @@ h6 {
 }
 
 .plus_btn {
-	background:
-		url("http://t.res.4008823823.com.cn/kfcios/Html/res/images/plus.png")
-		no-repeat;
+	background: #ccff66;
 	position: absolute;
 	right: 5px;
 	top: 7px;
